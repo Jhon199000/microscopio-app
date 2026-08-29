@@ -1,10 +1,4 @@
-# Microscópio USB - App Flutter
+# iOS placeholder
 
-Aplicativo Flutter para visualização de câmera USB em dispositivos Android.
-
-## Dependências
-- flutter_ffi_uvc: ^0.12.0
-
-## Requisitos
-- Android minSdk 24
-- Suporte a USB OTG
+This directory is included so the project can be imported by environments that require the standard Flutter `ios/` project directory.
+The microscope USB/UVC implementation is intended for Android.
